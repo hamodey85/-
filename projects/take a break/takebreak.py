@@ -9,3 +9,5 @@ while breaks != 0:
     time.sleep(sleep)
     webbrowser.open(url)
     breaks -= 1
+import webbrowser
+webbrowser.open (“website”)
